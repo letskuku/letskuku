@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 | [셰어마인드 (경험 공유 기반 연애상담 마켓플레이스)](https://github.com/sharemindteam/sharemind-server)  | 2024.01 ~ |
 | [동구라미 (공연 동행 구인 서비스)](https://github.com/GoGo-Ring/dongoorami-backend) | 2024.02 ~ 2024.03 |
 | [FIML (텀블벅 클론코딩 프로젝트)](https://github.com/Ogu-Family/fiml-backend) | 2023.12 ~ 2024.01 |
-| [아울러 (데이터 기반 사회적 약자 안부 확인 서비스)](https://github.com/UNLIMIT-PROBONO/23_PI008) | 2023.03 ~ 2023.10 |
+| [아울러 (시계열 데이터 분석 기반 사회적 약자 안부 확인 서비스)](https://github.com/UNLIMIT-PROBONO/23_PI008) | 2023.03 ~ 2023.10 |
 | [취트키 (직군 기반 뉴스 스크랩 어플)](https://github.com/ChwitKey/Cherrypick-Server) | 2023.07 ~ 2023.08 |
 | [동물로 알아보는 연애유형 검사](https://github.com/letskuku/animal_lovetype) | 2022.07 ~ 2022.08 |
 
