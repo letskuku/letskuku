@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 🍀Projects
 |                       Project(github)                    | Date |
 |-------------------------------------------------|----|
+| [MyMelody (지도 기반 음악 경험 공유 서비스)](https://github.com/Team-MyMelody/mymelody-server) | 2024.05 ~ 2024.11 |
 | [셰어마인드 (경험 공유 기반 연애상담 마켓플레이스)](https://github.com/sharemindteam/sharemind-server)  | 2024.01 ~ |
 | [동구라미 (공연 동행 구인 서비스)](https://github.com/GoGo-Ring/dongoorami-backend) | 2024.01 ~ 2024.03 |
 | [FIML (텀블벅 클론코딩 프로젝트)](https://github.com/Ogu-Family/fiml-backend) | 2023.12 ~ 2024.01 |
